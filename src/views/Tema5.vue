@@ -103,7 +103,7 @@
                 p.mb-0 Cumplir con las normas vigentes. 
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Prevenir daños a tercero. 
+                p.mb-0 Prevenir daños a terceros. 
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
                 p.mb-0 Evitar abandono.
@@ -263,7 +263,7 @@
         .bg-color-16.h-100
           .bg-color-6.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Legalidad de la especie
-          p.mb-0.p-4.text-center Verificar que esté permitida
+          p.mb-0.p-4.text-center Verificar que esté permitida.
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-16.h-100
           .bg-color-6.px-4.px-lg-5.py-3.rounded-top

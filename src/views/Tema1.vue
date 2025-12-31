@@ -227,7 +227,7 @@
               .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/13.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 No hay signos de miedo, dolor o tensión
+                p.mb-0 No hay signos de miedo, dolor o tensión.
       .col-lg-4.mb-3.mb-lg-0.d-flex
         .bg-color-1.tarjeta.w-100
           .p-3
@@ -486,7 +486,7 @@
       .col-lg-9
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
-          span Cuadro comparativo: Adiestramiento vs. Entrenamiento
+          span Cuadro comparativo: adiestramiento vs. entrenamiento
         
         .tabla-a.color-acento-contenido.mb-5.tabl
           table

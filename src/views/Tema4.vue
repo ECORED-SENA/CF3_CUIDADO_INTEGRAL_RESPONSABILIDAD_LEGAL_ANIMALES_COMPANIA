@@ -230,7 +230,7 @@
     #t_4_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.5 Normativa aplicable en Colombia
     
-    p.mb-5 reproducción La reproducción responsable está respaldada por un marco legal amplio que protege a los animales y regula la tenencia, el comercio y la reproducción de especies domésticas y silvestres.
+    p.mb-5 La reproducción responsable está respaldada por un marco legal amplio que protege a los animales y regula la tenencia, el comercio y la reproducción de especies domésticas y silvestres.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

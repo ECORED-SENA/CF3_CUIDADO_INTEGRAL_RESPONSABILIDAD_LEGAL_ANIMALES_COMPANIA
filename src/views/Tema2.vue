@@ -203,7 +203,7 @@
                     p.mb-0 No experimenta dolor, miedo o angustia prolongada.
                   li.mb-0.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Recibe un manejo respetuoso y humanitario
+                    p.mb-0 Recibe un manejo respetuoso y humanitario.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -222,7 +222,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+
 
     .titulo-con-imagen-2.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo-2
@@ -246,7 +246,7 @@
                   p.mb-0 Sensibles a temperatura, humedad, iluminación, ventilación y calidad del agua (peces).
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
-                  p.mb-0 Pequeñas variaciones ambientales pueden causar estrés, enfermedad o muerte súbita
+                  p.mb-0 Pequeñas variaciones ambientales pueden causar estrés, enfermedad o muerte súbita.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -274,10 +274,10 @@
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Cada especie tiene patrones de conducta definidos:
                 div.ms-3
-                  p.mb-0 Aves: vuelo, perchado, forrajeo
-                  p.mb-0 Roedores/lagomorfos: roer, excavar, explorar
-                  p.mb-0 Reptiles: termorregulación, ocultamiento
-                  p.mb-0 Peces: nado libre, jerarquías sociales
+                  p.mb-0 Aves: vuelo, perchado, forrajeo.
+                  p.mb-0 Roedores/lagomorfos: roer, excavar, explorar.
+                  p.mb-0 Reptiles: termorregulación, ocultamiento.
+                  p.mb-0 Peces: nado libre, jerarquías sociales.
               ul.lista-ul--color
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
@@ -366,22 +366,22 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Golpes, patadas, quemaduras, cortes o heridas 
+                p.mb-0 Golpes, patadas, quemaduras, cortes o heridas.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Envenenamiento o sustancias tóxicas 
+                p.mb-0 Envenenamiento o sustancias tóxicas.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Abandono deliberado 
+                p.mb-0 Abandono deliberado.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Mutilaciones sin justificación veterinaria 
+                p.mb-0 Mutilaciones sin justificación veterinaria.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Castigos crueles o violentos 
+                p.mb-0 Castigos crueles o violentos.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Exposición a cargas o esfuerzos inadecuados 
+                p.mb-0 Exposición a cargas o esfuerzos inadecuados.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
                 p.mb-0 Uso en peleas o espectáculos ilegales
@@ -391,25 +391,25 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Falta de alimento o dieta inadecuada  
+                p.mb-0 Falta de alimento o dieta inadecuada.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Privación de agua potable  
+                p.mb-0 Privación de agua potable.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Negar atención veterinaria 
+                p.mb-0 Negar atención veterinaria.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Alojamientos insalubres o inseguros  
+                p.mb-0 Alojamientos insalubres o inseguros.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Falta de higiene y control sanitario 
+                p.mb-0 Falta de higiene y control sanitario.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Ignorar signos de sufrimiento o enfermedad 
+                p.mb-0 Ignorar signos de sufrimiento o enfermedad.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Ausencia de control reproductivo
+                p.mb-0 Ausencia de control reproductivo.
             p Produce sufrimiento crónico y puede llevar a la muerte.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -435,19 +435,19 @@
                     p.mb-0 Jaulas pequeñas o inadecuadas.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Falta de control térmico, lumínico o de humedad 
+                    p.mb-0 Falta de control térmico, lumínico o de humedad.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Dietas incorrectas o monótonas 
+                    p.mb-0 Dietas incorrectas o monótonas.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
                     p.mb-0 Manipulación excesiva o inapropiada
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Ausencia de enriquecimiento ambiental 
+                    p.mb-0 Ausencia de enriquecimiento ambiental.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Ignorar requerimientos etológicos básicos 
+                    p.mb-0 Ignorar requerimientos etológicos básicos.
 
     separador
     
@@ -552,7 +552,7 @@
                   p.mb-0 Falta de alimento, agua o atención veterinaria. 
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
-                  p.mb-0 Encadenamiento permanente
+                  p.mb-0 Encadenamiento permanente.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Confinamiento insalubre. 
@@ -742,7 +742,7 @@
                 p.mb-0 Viajar en platones, techos, baúles o colgados del vehículo.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
-                p.mb-0 Llevar al animal suelto dentro del vehículo..
+                p.mb-0 Llevar al animal suelto dentro del vehículo.
               li.mb-2.d-flex
                 i.fas.fa-circle-check.bg-color-3
                 p.mb-0 Exposición directa al sol o al viento.
@@ -822,7 +822,7 @@
                   p.mb-0 Material absorbente y antideslizante. 
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
-                  p.mb-0 Protección frente a calor, frío y ruido
+                  p.mb-0 Protección frente a calor, frío y ruido.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Evitar manipulación excesiva.
@@ -891,9 +891,9 @@
           .bg-color-6.p-4.py-3.rounded-top
             h4.mb-0.text-center Consecuencias posibles
           div.p-4.text-center
-            p.mb-0 Multas 
-            p.mb-0 Decomiso del animal 
-            p.mb-0 Procesos penales en casos graves
+            p.mb-0 Multas. 
+            p.mb-0 Decomiso del animal. 
+            p.mb-0 Procesos penales en casos graves.
 
     p.mb-5 Transportar un animal exige conocimiento, empatía y responsabilidad. No basta con moverlo de un lugar a otro: se debe preservar su bienestar durante todo el proceso. Un traslado bien planificado previene el sufrimiento, salva vidas y refuerza la tenencia responsable.
 
@@ -954,7 +954,7 @@
         .bg-color-2.h-100
           .bg-color-15.px-4.px-lg-5.py-3.rounded-top
             h4.mb-0.text-center Multas económicas
-          p.mb-0.p-4 Por infracciones administrativas o maltrato leve
+          p.mb-0.p-4 Por infracciones administrativas o maltrato leve.
       .col-lg-4.mb-3.mb-lg-0
         .bg-color-2.h-100
           .bg-color-15.px-4.px-lg-5.py-3.rounded-top
